@@ -28,6 +28,7 @@ This frontend is connected to a backend hosted on Render.
 
  📷 Screenshots
  <img width="1897" height="902" alt="image" src="https://github.com/user-attachments/assets/32175e2b-6fa0-4bc4-bd53-d70afc987d90" />
+ 
  <img width="1900" height="741" alt="image" src="https://github.com/user-attachments/assets/d6a48ae6-3bdc-4570-85d2-3c7283ebaa38" />
 
 
